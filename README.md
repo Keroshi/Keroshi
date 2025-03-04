@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, Ruby.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at bgathendu@live.com.
+- 📫 How to reach me?
 
 <!---
 Keroshi/Keroshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
